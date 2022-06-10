@@ -1,10 +1,6 @@
 <h1> Hi there 👋 </h1>
 
-<hr>
-
 <h2> I am on my way to be a Full-stack Developer. </h2>
-
-<hr>
 
 <h2> Tech Stack </h2>
 
