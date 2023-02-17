@@ -1,10 +1,10 @@
 <h1> Hi there 👋 </h1>
 
-<h2>Welcome to my GitHub profile! As a junior front-end developer, I'm excited to share my projects and progress as I continue to learn and grow in this field.
+<p>Welcome to my GitHub profile! As a junior front-end developer, I'm excited to share my projects and progress as I continue to learn and grow in this field.
 
 My repositories include a mix of personal projects from coding courses I've taken. I'm always open to feedback and suggestions for improvement, so feel free to leave comments or open issues if you see something that could be done better.
 
-Thank you for visiting my profile!</h2>
+Thank you for visiting my profile!</p>
 
 <h2> Tech Stack </h2>
 
